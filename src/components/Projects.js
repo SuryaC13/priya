@@ -9,19 +9,19 @@ const Projects = () => {
     {
       id: 1,
       src: ecommerce,
-      link: "https://ecommerce1-1.herokuapp.com/",
+      link: "https://ecommerce-priya-219.vercel.app/",
       name: "Ecommerce"
     },
     {
       id: 2,
       src: pwd,
-      link: "https://password-generator-01.herokuapp.com/",
+      link: "https://password-generator-priya-219.vercel.app/",
       name: "Password generator"
     },
     {
       id: 3,
       src: calc1,
-      link: "https://react-calc-01.herokuapp.com/",
+      link: "https://calculator-priya-219.vercel.app/",
       name: "calculator"
     },
   ];
